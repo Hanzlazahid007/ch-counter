@@ -36,9 +36,7 @@ const TextAnalyzer = () => {
   return (
     <div className="min-h-screen bg-gray-900 text-white flex flex-col items-center p-6">
       <div className="text-center mb-6">
-        <h1 className="text-4xl font-bold">
-          Tally <span className="text-lg align-top">v2</span>
-        </h1>
+        <h1 className="text-4xl font-bold">appXweb</h1>
         <p className="mt-2">
           Your favorite character counter, with a dark mode!
         </p>
